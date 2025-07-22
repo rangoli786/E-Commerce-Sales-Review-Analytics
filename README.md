@@ -8,9 +8,12 @@ Advanced SQL queries and insights from Olist E-commerce dataset.
 - Multiple table joins (Orders, Products, Reviews, Sellers)
 - KPIs and performance metrics
 - Cleaned and preprocessed dataset
-###  ER Diagram
+## ER Diagram
 
-[ER Model](https://github.com/rangoli786/E-Commerce-Sales-Review-Analytics/blob/main/ER_Model.png?raw=true)
+The following Entity-Relationship Diagram was used for database design:
+
+[ER Diagram](https://github.com/rangoli786/E-Commerce-Sales-Review-Analytics/blob/main/images/ERMODEL.png)
+
 
 ##  Files
 

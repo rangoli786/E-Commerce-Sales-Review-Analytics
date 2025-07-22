@@ -8,8 +8,7 @@ Advanced SQL queries and insights from Olist E-commerce dataset.
 - Multiple table joins (Orders, Products, Reviews, Sellers)
 - KPIs and performance metrics
 - Cleaned and preprocessed dataset
-
-##  ER Diagram
+## 🧩 ER Diagram
 
 ![ER Diagram](ERMODEL.png)
 
